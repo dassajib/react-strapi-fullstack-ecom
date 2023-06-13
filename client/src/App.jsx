@@ -8,6 +8,7 @@ import Footer from "./components/Footer/Footer";
 import Home from "./pages/Home/Home";
 import Products from "./pages/Products/Products";
 import Product from "./pages/Product/Product";
+import "./app.scss"
 
 function App() {
 
